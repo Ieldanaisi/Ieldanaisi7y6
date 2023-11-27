@@ -1,0 +1,26 @@
+{
+  "name": "Eddie Tucker",
+  "age": 62,
+  "address": {
+    "street": "Tenran Glen",
+    "city": "Ojriid",
+    "state": "LA",
+    "zip": "02778"
+  },
+  "contact": {
+    "phone": "(234) 272-3962",
+    "servicePhone": "800272723"
+  },
+  "birthday": "1978-05-23T22:28:17.682Z",
+  "ip": "59.30.106.50",
+  "foo": "bar",
+  "profile": {
+    "about": "Zihcewpe ranusi ot ow ega ewauh aloimi jiwivahu ageowejo re etsa anbav vehcedhi rug kib awa. Mibte jinwowogu zokeuf sebgoj toduzhed zap dub dijhehe bene tu vi mogoni. Teha okivnas luwar pepuzu nido hintaw nev bufup camlur di cudduw anisimfop gavo ji eg ubi ahapeget evi.",
+    "bio": "Aznom afi zodumwu ikre sijebdeg tapla piuvdiw tufez seketle le pa ralwel nofpeta doka vafevse kesli hesafo lohwimguz. Moja mafti ohabeg sohtam isalufce ovdiawa be lorig sa gehru husaj pohimvu jeg nu. Wu abo laze jil mutikse bu vezehulu vogizka taunu cirkepi hohule po amaam fil ugfew vezke tuf."
+  },
+  "apiKey": "f34a4cb1d93140eab9a08ac25a059911361e830f265679b54a2f57a91a1c838c",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
