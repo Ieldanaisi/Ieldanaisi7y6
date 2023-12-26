@@ -1,0 +1,26 @@
+{
+  "name": "Emily Shaw",
+  "age": 31,
+  "address": {
+    "street": "Kutle Key",
+    "city": "Bozzovir",
+    "state": "VT",
+    "zip": "84714"
+  },
+  "contact": {
+    "phone": "(664) 843-5126",
+    "servicePhone": "800699532"
+  },
+  "birthday": "1967-06-04T13:03:59.658Z",
+  "ip": "81.21.253.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibago ti je fib voduc kuzlaju fesfe badnoc sazses ibuve nelo ufhub beh kosmotci eproj jacudof etiti. Ji so ahiwho pebsisew ok eca likgi julwir dekelu suvbab anuruzo tetirba nikmugger di polkibu pikip. Pefaes ume vi toser tom geg melope wogsaine maucenob ak laife anlir li kipzebab malive. Bugga ifuok hune ci ribruci ohcetwe od fugwi amti dih as re zehhozab tojon bireem fuhunino. Uvuznib vo pebzur oruror so zigu vala vefube nocelode akavihiz zev ipijihfif dohafvej peblir hu ner.",
+    "bio": "Jub adevedmo ceh top suhzoze oletu tigodgen be neduvrer ilvac esgofpe fu memagsa odeije. Vudnaz fid nodogev egogig mokur pa boc ni tun efzi nilup agite. Tebonuk nahmi peju hiwenuk noinotag ahasitoge cul hope jowzuor seli kud vude ga."
+  },
+  "apiKey": "7a12ef0ed5407dcef44d08a59b59b589e1506513cf224dce67776bb644b24a75",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
