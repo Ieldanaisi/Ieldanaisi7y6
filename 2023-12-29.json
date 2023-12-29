@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Stephens",
+  "age": 45,
+  "address": {
+    "street": "Nekan Junction",
+    "city": "Gallarac",
+    "state": "MD",
+    "zip": "20759"
+  },
+  "contact": {
+    "phone": "(441) 687-1795",
+    "servicePhone": "800157745"
+  },
+  "birthday": "1970-04-16T05:09:17.822Z",
+  "ip": "248.112.1.117",
+  "foo": "bar",
+  "profile": {
+    "about": "Ro cizzol wiijren ri vu nijuir gudofovi vid ci ipeho ci opte wo sapahurec. Elow ted ej mif evlog nilbe vi gougsoz efomunof ewwidaz la binviteh ivediwim dom nemapwe ri. Wa go el lit ile rah agulos jib ho fu nakveb vazladbi tu kog wa sajowog vureh.",
+    "bio": "Cilritmet nishu ku ipamelof cip zirem of amiogu noleri ewcid modrik kaame veli wulje dudje. Jol juuzi kuzci hogbogpi caew wagifu upopobit akewar dug tib zahgiw sofitiv odo vezavaf obu fojet vuvapomuv du. Nis nalo ho vuhbu mib juwsuje rizgo gizpa apiffu esuno zek dedgogluc suh bohmom wuridba gezfocol mautac."
+  },
+  "apiKey": "ec5fe2a649a6c588b541239551d653b9b27d41c1a631ac4d171daab28d3c16b8",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
