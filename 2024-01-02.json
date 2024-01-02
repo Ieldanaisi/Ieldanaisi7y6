@@ -1,0 +1,26 @@
+{
+  "name": "Allen Jordan",
+  "age": 31,
+  "address": {
+    "street": "Jafap Way",
+    "city": "Zekaoke",
+    "state": "VT",
+    "zip": "10682"
+  },
+  "contact": {
+    "phone": "(735) 310-5764",
+    "servicePhone": "800238671"
+  },
+  "birthday": "1961-09-28T16:01:32.914Z",
+  "ip": "192.154.138.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Hawebi ce ciso maj ero juciuce kel fetbauwu olzofcub ja nuwawiite uh papci pazim likrudwo. Fagwi lijdavwi ca welerhoh jien piddoffu efgenav goblu ed sa lekedeuz wodajnut lo. Rensusic onopasew rumi su dimo ku ifku jojihu jedmat caizne bir ogna adejojuc tevhik ibilus heufani. Zas sot uksid oduus ba unope ga lij ow won vomicsu uci jofuz.",
+    "bio": "Ug ebi he kuv pete tuj buza edsoar bic irapi kacapli za liive nabem um vahuwe resug. Cusza bagniz he vubcob cehgi jusujjo ri jezji mara mavuc fi woumidi lur ifmalogo sob opaserjag. Es howfac zioho hajpif te udej veh possa uwvuuta malis muh jahsagop be."
+  },
+  "apiKey": "bbf507d36387c84f82870c13e13748f296e628f65e8eaa657277c7bfcbd9d1f1",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
