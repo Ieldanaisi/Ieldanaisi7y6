@@ -1,0 +1,26 @@
+{
+  "name": "Inez Clark",
+  "age": 19,
+  "address": {
+    "street": "Etilaf Terrace",
+    "city": "Dijwejha",
+    "state": "NV",
+    "zip": "44027"
+  },
+  "contact": {
+    "phone": "(346) 412-4594",
+    "servicePhone": "800571469"
+  },
+  "birthday": "1988-06-09T03:53:09.333Z",
+  "ip": "165.73.96.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Zebi lafih nowo mitmaz tewa owicah sodap mazvebro webfadrod waocoeh todfike kudce hapvanov pu hipesu. Ma modishu sobpujib segaca tiloli za hofa hoc acjuh igaovi kijudozu na cipudajib facmi ku uhjul. Roka hagup mulzuema haba ij lejous takimu hizukhu cuscu nuzkeoce awibja ihasafzo pepajsu nu pi va.",
+    "bio": "Goawba kutu imedan wizede kor pektom sozbuzolu jun aga fahamliv dutfek deik cu migipe rop mojmut. Nunbo juki nibbivot gur mebalgo gi oku rotso zuulaco rij ulecun sena. Sulov wobafa vaw ef bi iwhufut bab fonis kepra zujotje mojuz jijo."
+  },
+  "apiKey": "e1edfdb810c05024bd8039fe5060057fdef363ba51958c9d5f58952637e1f85a",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
