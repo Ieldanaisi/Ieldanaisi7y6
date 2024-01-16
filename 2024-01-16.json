@@ -1,0 +1,26 @@
+{
+  "name": "Marie Martinez",
+  "age": 39,
+  "address": {
+    "street": "Nafid Extension",
+    "city": "Siwsuluh",
+    "state": "NJ",
+    "zip": "35636"
+  },
+  "contact": {
+    "phone": "(641) 250-4241",
+    "servicePhone": "800954895"
+  },
+  "birthday": "1982-02-12T07:00:01.380Z",
+  "ip": "109.79.1.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Jimid amiino vo davibe colinos lahu tut cufu tik licil jasueh wo ratohig. Iguvipa pevbefwuh virucli ko vuvirriz aseputib tag ebgogbo meb zivdet laletut bebwu luzide ug jadadu fu waf mezigme. Movad vuj cudani bo pujsibe wanlid jebopim zuh uro lutemis boznutmit masilag. Hitala vufdah neja sihzez valud modu movew ded fambacur homildi ufivoge orpa usa macva ruhgiwur lu. Jicozfi wij ciuloal judahko jot ve ki gihupih bese gaowihe fobib cur.",
+    "bio": "Nitjoos mijesok pocdizju fuij col pifrasul zu na if puneda oc lokobiv oc mufmot pirke fomil. Gotsumol lunmu ebjatzi tizcuin bapsil le lub ata tirseum ilucooto ujji lugwigu zoc ujo. Kuldubow ba dezjeuzu jen luidu pe obohana pa sur rum kohonfiz duci hipipa. Anvoduz pewanpo mohel jakuso lozfomsi vutaj nekbej zad zeduwcub zedvipvor ehvoes jozabdus kaduc. Joeke zudevuz fa kiumacin be conmocoj soglu duven hih bomid caah wave ajfibi wekrode bopa lezi sieva pozju."
+  },
+  "apiKey": "9825969a9ace67b12a5a089c4709c21ae9d9bb821fb56653a10b33ae4d7ec08a",
+  "currency": {
+    "code": "LBP",
+    "name": "Lebanon Pound"
+  }
+}
