@@ -1,0 +1,26 @@
+{
+  "name": "Philip Weber",
+  "age": 60,
+  "address": {
+    "street": "Zavdi Heights",
+    "city": "Juegalo",
+    "state": "LA",
+    "zip": "87084"
+  },
+  "contact": {
+    "phone": "(546) 968-7713",
+    "servicePhone": "800537679"
+  },
+  "birthday": "1975-03-05T20:45:29.120Z",
+  "ip": "160.218.97.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Gip tazibdu avjidpi fetwoota iwvupur zi mepo legurubi nuuzzo uduluha zi pizcuzgiz teli bu ukhor hum. Gukogog mo wiardi tubpef ju lethiet gifcis bajiz nar am jodbe rul. Ob izvopes duwohsa sa girotaez labhu fu um itosu apbibbe pegen uniwe.",
+    "bio": "Hu zudhug sevlumga muwec ja iz lurag rebbazra mozlacom ib zar ehmiz gufnise gup joebo anuwezcic. Cedjiniz wijgaguli hiwjib ob rad tocom heok rituite cununaso cobol nik ole sovwus useadakog juce fobacoc nah ducojke. Evzu pohjomwur alhezbe fibo zipobgut iruofpo bitofe uznokru daaku moli kadle tieg lir litop. Hirro topoj peot he ic manevigup pit ow otune ipve hignede lit zu lu negse voh uweupa tobni."
+  },
+  "apiKey": "c9a3e370b8272a9d7a2029ca30dc18c5dbdec7173aa67cb60860777ce343c4a8",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
