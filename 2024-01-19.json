@@ -1,0 +1,26 @@
+{
+  "name": "Sally Norris",
+  "age": 63,
+  "address": {
+    "street": "Gipsi Circle",
+    "city": "Majhori",
+    "state": "MA",
+    "zip": "16663"
+  },
+  "contact": {
+    "phone": "(753) 594-8343",
+    "servicePhone": "800523635"
+  },
+  "birthday": "1982-07-22T20:11:22.674Z",
+  "ip": "24.103.58.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruk lujolunic cuhbip uviin at re lor jakaisu tukagbe ekuduima wub pectori mijkuhmis itadocog. Favajipev sa ef me ovragob opagum movuv zikawbe jimaw jad dujhasriw nerap. Tab dema ilu wemona fen duckallu mumas eg du zekguw ab ib bioswe juugisu.",
+    "bio": "Izlacug mi ubzeid jakim uji afa ruej pushebho jisnikso kiz nac udi dod li ci law otcor. Ado ijhofdul zutucud fesci ahilaze revguhpeb luvil etitorfa dugmi kaowusal zos cozduh sop isu haceg naad ova ucwezgim. Gis mutiluru bi bimjifto gajej wa ni jezgeno huhav rizec ajbowrib cevcagra. Ju hedkil jofefo nad fekcoez donuko zut gorgilca musifhi ulu wu pop. Ziruknu zagner ted pafetje sulkenle eteibo todob raewhi nowlez care sesnohwo nuzuz es buutu ancate juzhaco. Pocsot som cud kievmu marirus zo aziju ewe zagratu urularhe guhabnat nid boifro."
+  },
+  "apiKey": "732510d47890e5e0ea004e0c93e246b4320595cac112d2c415bdf5e5e1a61f40",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
