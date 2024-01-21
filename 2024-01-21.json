@@ -1,0 +1,26 @@
+{
+  "name": "Joel Morrison",
+  "age": 45,
+  "address": {
+    "street": "Iswoc Road",
+    "city": "Iglotvip",
+    "state": "TN",
+    "zip": "51586"
+  },
+  "contact": {
+    "phone": "(454) 752-1560",
+    "servicePhone": "800759628"
+  },
+  "birthday": "1969-11-21T16:03:42.130Z",
+  "ip": "44.15.134.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Sootefom co ronek wubji red macsa ge om meif havo woto di ru howuv rimij famenapab. Uza om uk ba ocuw zioco behuzpo fodwa pujiflej afa muhva tocohi nijta le foddugi reipfeh beamuju ke. Fa bedotu mosjapo na wu modu sakcuf mo dosazir ifepod epsodze lifmozi fas megibke hu.",
+    "bio": "Govam jiotasoj cabwil zelganu ben sikvi vikhac zewfih huura esweaw tiojpes monwe gopune. Anajegol hu gus sovpu jegmer zavpa dososob hukakgon kajeca fagfipfag ikaupme jel pujvohut utken vemop rugumor gasahte. Ubwis jasikov jilavpi mu si zawfed musoj cezzecfap nilacado sewavoho doprigoge bat boz."
+  },
+  "apiKey": "33cde192e2ae840cf73313909d23c36c97c61f6e31f086bb8e55697bdbe36dd6",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
