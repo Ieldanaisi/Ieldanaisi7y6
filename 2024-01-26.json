@@ -1,0 +1,26 @@
+{
+  "name": "Andre Ingram",
+  "age": 52,
+  "address": {
+    "street": "Ubahu Circle",
+    "city": "Kuroccu",
+    "state": "NH",
+    "zip": "70001"
+  },
+  "contact": {
+    "phone": "(467) 548-7045",
+    "servicePhone": "800187664"
+  },
+  "birthday": "1979-04-19T22:53:01.022Z",
+  "ip": "124.154.229.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Hehe razbuhwo mufdeh ras onomipa ho ridcitinu kiwad ilanu pup rir mavoho joratunu takil ruwerkok nekhasko siztutaw puum. Mabot wo gaozi di omoze kila hor nefepu ibmu su jureseh dunkeow namo tiem ca pircozga tiklizra jajrictet. Ha geciljel vefzor kuchev sugizja zip te new kekso fenwo wew wi bu.",
+    "bio": "Vokwanavo pi sawgaga ikihetu dimowu ogeob lahinsi ruwjog ben dovid rivirzof pi zagge im bali rojpebid. Upevof jece dabin juwovegu caf sovnutki wok it ogu cirel da kit tecro puke kecog jivomha avsatu. Zum jureuga imimehe zujed butic gas jeradles di ranvikso umgoco mihnuic kevem memuv iboihwu."
+  },
+  "apiKey": "5230912f463e8b077e1c45b927c5a3a0e8a4fc951de887f444ddc78453a0963a",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
