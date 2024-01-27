@@ -1,0 +1,26 @@
+{
+  "name": "Gary Gonzalez",
+  "age": 52,
+  "address": {
+    "street": "Zauni Way",
+    "city": "Beeviel",
+    "state": "VA",
+    "zip": "14171"
+  },
+  "contact": {
+    "phone": "(781) 819-2871",
+    "servicePhone": "800766978"
+  },
+  "birthday": "1959-09-13T02:30:06.407Z",
+  "ip": "11.99.34.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Zoprec to vac vuf mijuofa isecuv et ziceh vuse gobo jezodeeba raj vi lunudasep gujebef. Po dulelhi biw rurmat loz fojpabjo me ul arive ma amsekuv anco ziro mezan ducawaj. Fenriwvo rado vifub vob adtu jawbombal gavtoreh irnunih hi obo ne tajmun tep zukaki civ lefrov dadkotic gez. Vakejah dintu budigewoj hipsefub vajiv rezsezok fej paf zufdup curubmo buf ufsa. Ratpe akupep cizruj vejvacsos po co vogniz birkeipu puz puwuhi eci umiworzo.",
+    "bio": "Za catgo hobu seku juwat iccueme uttov kun joblohila sutosje zoomo cizkogo wumjit jiho ze zejafi pir. Gekigtuz warkore zosovidu eka wohena ja cot kom vavediza tu elva dor famwa. Cuhatrag vivti zohjo utnug bo labzotvi wozuneek ti pahmop ni mazcume rog nac ova huler rud. Pofkog lan ujmi rinuro osdef muk puib co ut dacber fovo luzite hiohon se tamob buf inruwi hibnota."
+  },
+  "apiKey": "4ad8916a4910abca47d087d2a668d1e8a39b9933b6a0d1f9ed32520808b8b5bd",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
