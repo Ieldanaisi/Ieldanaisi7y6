@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Howard",
+  "age": 18,
+  "address": {
+    "street": "Zupi Plaza",
+    "city": "Irowiduh",
+    "state": "OK",
+    "zip": "39368"
+  },
+  "contact": {
+    "phone": "(501) 774-8689",
+    "servicePhone": "800162816"
+  },
+  "birthday": "1982-09-19T18:02:41.123Z",
+  "ip": "164.157.222.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Gagef del kaf jiffeab lopor gif teba kondu lamedde hiif mutu uda uma hanresjok dipzi ig wom. Agu uzeed ko meul nilowtid coda fu wi pamni gedevkoz fip nibja vukfe siegbu. Zeinveb som nednawfe li ek rahhulbo hef al tofrehzuw no somu kasju ecgem ununa. Sasop ma ado atfazlo us wire bolume gegonzag ciwloivu uv duz logit adros vurtogin fat.",
+    "bio": "Wehudow pazi zuliwa ha fuhanhu du burujsa lefrofu sevoeku lab mommemtal epanenco bar cibu rev pepama. Havki hi jahuk tef if uwte jikru wi ofeculip mucivizo sopba ifawu nade ricuhu. Cimo oh kuzo rof pot ubigutbiv celu wehisre kodawub majvac vamu iplino. Epico jivurez aw ru hon witofpin gowce becnev pobe ba ihepete pophir fajro uboru."
+  },
+  "apiKey": "a1faa16a20c5744c7373a5de1cc5da51bac478f26f2da88cf7944801e4534602",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
