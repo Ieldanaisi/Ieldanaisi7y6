@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Webb",
+  "age": 18,
+  "address": {
+    "street": "Cowa Boulevard",
+    "city": "Erelodi",
+    "state": "RI",
+    "zip": "75749"
+  },
+  "contact": {
+    "phone": "(839) 892-8524",
+    "servicePhone": "800656741"
+  },
+  "birthday": "1996-08-22T06:57:00.183Z",
+  "ip": "27.189.94.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Mehobu ip uhtev baz ijiferi guhtus gaz lirugwag wojovo pufehof zedefeb ikipoov umoti zim irhod. Foojegec jucdup jigajhas wutca cu ton mo ah buv zu beh parse. Unagiz sal pocbufu gud pike nurugadod awa wiuva ev hiwemi ehepo ep dib so kumoc ro.",
+    "bio": "Iguha dedikew aglu ehidi foc puv ra kuawuse badow ibvej do sawibzu. Bivaco ak aw injok toise ji lozneti jeifeja hidedi ufsucoh jumi azowogzoc. Fozwovu fuhotalob reltoddil lawecawe wisa neciija najga hu pamzim gersuaf femvi meme. Ahiur puce tav gihligbec ocofefok de lewajaf zudacuja dipuk idjan cu zeire jime."
+  },
+  "apiKey": "53d47e1269b279b387922a6c7c39cb56a4676fb3849f3c711831b265e5981b61",
+  "currency": {
+    "code": "RUB",
+    "name": "Russia Ruble"
+  }
+}
