@@ -1,0 +1,26 @@
+{
+  "name": "Jonathan Price",
+  "age": 64,
+  "address": {
+    "street": "Avik Parkway",
+    "city": "Miwhone",
+    "state": "RI",
+    "zip": "61514"
+  },
+  "contact": {
+    "phone": "(353) 900-3952",
+    "servicePhone": "800637229"
+  },
+  "birthday": "1976-11-12T14:13:57.539Z",
+  "ip": "30.147.246.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Tiw kigot ni tev dejog jo dufpuje varudu ujaeluded ila uwe fovip itje. Te acsu gegba wubco zelgob nebeje ekta soejri le usokov torazi ojuehaeki goomeda wiis letpalo vik vad limwepru. Hateg le ce la jafoduuv onikij cut kah fegid ego mugiti puh fa jopuc humbo jefcogfus.",
+    "bio": "Gih hi fiza vivome uz siku puhce siosad lifwa facvag vac agdanzu ruv vaogazu mefe ozezewo. Kam poljon bo wepsujid hamweva po kod voreke dewedake ga gih vibfale napawo bin. Mo up kav zaov ne tub lenbelvak luwiim cihitsat ja zigmi igjir jafves has esu in."
+  },
+  "apiKey": "4da6dc89d1de372c52b8b062072c76e31db6420dd1bb2f0cbb5ac8a9930d02ec",
+  "currency": {
+    "code": "OMR",
+    "name": "Oman Rial"
+  }
+}
