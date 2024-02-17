@@ -1,0 +1,26 @@
+{
+  "name": "Jose Howard",
+  "age": 62,
+  "address": {
+    "street": "Usge Manor",
+    "city": "Alajofi",
+    "state": "NM",
+    "zip": "03093"
+  },
+  "contact": {
+    "phone": "(781) 236-3435",
+    "servicePhone": "800967676"
+  },
+  "birthday": "1994-09-04T15:56:46.434Z",
+  "ip": "97.190.174.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Unugevrek opzodfu vera zu ed ezeaw hon riw ilo heod wih us zemmejreg diti joswuol. Megudud to genim bepuaj ajterusu cuplizi lojejuapi fufik za cagof hu hukcugus sais dotse. Ufidi juvfes tiifa coh reme giuzodu ga wisow dapuas ijaag lizhi rowan rih tupufeca fegmo lo.",
+    "bio": "Hat voses wup rumafu pauhaku soj amfohik itonidaw pok puw zoskosgit tider guliztan uktup zod fawdaz pewenog. Fo nukatwek jokmeja ow hap jidri zaf idpa wuh fazihzor nadteba duc ge nigru jisigkuc teze impalumo. Uc wawneog izifi gijoimi tuvuki se ag hokizte leg efopirjo miibseb noj ita li bas."
+  },
+  "apiKey": "7880d7749434d7adf37b27da64507a548c5d346fcd1679a34eff66c76c447c15",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
