@@ -1,0 +1,26 @@
+{
+  "name": "Rhoda Chandler",
+  "age": 27,
+  "address": {
+    "street": "Binru Manor",
+    "city": "Nonolba",
+    "state": "TN",
+    "zip": "96359"
+  },
+  "contact": {
+    "phone": "(431) 482-9115",
+    "servicePhone": "800156583"
+  },
+  "birthday": "1969-01-12T00:11:25.537Z",
+  "ip": "143.130.208.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Uti vazu wegga obuku ute sogo guro ovonebe gukzikpa losanad burar rikejce lac. Hoh uro wegezbo mojuk waf ta hor sora woafaija akhajtoj reboplul wobre havjunsap we ikdi. Fubogim sepjufi isupuba foug hohju ma nisfodup tocve foti gefesta sew irvo azfip wev utzav vo fudepo.",
+    "bio": "Bab kokuv sivfewruk kaplad fas uzaem cel dinuta zad cam fef ujca dav hapsew tepe amu. Pufizoav zupozte bozko meem dusoab ezure figowdej uke gosiv anavozur foju zefacnar ci pomina ze zim rigagok fefol. Meho zav onoelu ewfu dauz dibde piktibe ufajo ju hijvagbek taw mowjakjup robop."
+  },
+  "apiKey": "38289dabc80e2c1b5ce1436c626c3349cf5dcfc3cd0e4e4f366b749deeaca4a7",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
