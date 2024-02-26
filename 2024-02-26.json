@@ -1,0 +1,26 @@
+{
+  "name": "Sean Gibson",
+  "age": 64,
+  "address": {
+    "street": "Zeoge Point",
+    "city": "Firrojud",
+    "state": "DC",
+    "zip": "66824"
+  },
+  "contact": {
+    "phone": "(251) 501-3220",
+    "servicePhone": "800771115"
+  },
+  "birthday": "1962-05-09T09:22:31.646Z",
+  "ip": "112.120.61.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Evjafik ija vib daihi icepza mi casdazij on saiccol fisaco okutarjuf emawoha na aji uwda kumi ingor. Saw it pu onbam ga oz fisevwub we jij kan afo mauna. Pazok bo feca luzhefcac esahe oc vorrij waivepil hun nenjeldaj bi libol.",
+    "bio": "Mi tik zorap subhohrez ge zuorebu ta wozwowpa bil ehi lo daz. Atwugup ol cice cifawot rabicfe ovurid hopum un bov hekba wecmom feofduh fa jofeb ic. Lab dej deg to puaki fa uze je inidazic zi zaokevoc gutnodi codasaem meeci mus sozwi pofezulu. Ri pot avajete oju kum di atiizpo dofwiej puc noselo kobsikka bev girgohmad dingop mikid. Vedgicu kulremlur suh reteupu met umico zit osicuvuf ri ko taari kihaw povva lacbicije."
+  },
+  "apiKey": "7dba2fe3b89d51bff3d6e9b518fee9242bbc6441210d6ce3566c90cc327bb095",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
