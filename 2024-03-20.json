@@ -1,0 +1,26 @@
+{
+  "name": "Harry Knight",
+  "age": 43,
+  "address": {
+    "street": "Giec Path",
+    "city": "Ezokura",
+    "state": "CO",
+    "zip": "12145"
+  },
+  "contact": {
+    "phone": "(673) 525-5479",
+    "servicePhone": "800542126"
+  },
+  "birthday": "1972-05-16T00:10:02.936Z",
+  "ip": "115.11.66.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Bi hazpiwzo terlaw faselioh luzilwem zoosci kotfuufa kuliel siwubew nicebe ul kibedo cu recofjaj pooz werjer uk. Sintibo muza orahignag wocihuda sedi besig mok ru gi ra cifcih sa mokozo un ufa heaf. Liho notzuil ahibi sikfocme ki perope ej vi soj ti visikkal hofeit finani.",
+    "bio": "Wo je hodpa rutnudze tewveju nabje wah mathez eb pofefdi pobe pabacu bejpupzi onahe efoigmun lejlid. Upunvil ucisi binuose ket aneritbeb zi pedip ducidu rarupwu cowomgel tec af. Paciudi vote eptuzwu nusawu vicsocmob zez fogewa tiakzi lira ursa rigorka tohleh va. Hos kid pepgog gowel vak tebcahuj ukjese cevrois cone hu sabadafi deosiga."
+  },
+  "apiKey": "8e74240f83b068f72ce49174a4feab948dd2fa5791c2e84cc3448b9bc584e71d",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
